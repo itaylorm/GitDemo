@@ -1,6 +1,7 @@
 # Git Demo
 For Exploring Git scenarios
-This is inspired by the Tim Corey Git course
+
+## This is inspired by the Tim Corey Git course
 https://www.iamtimcorey.com/courses/git-from-start-to-finish/
 
 ## Branch Naming
